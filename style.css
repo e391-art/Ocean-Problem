@@ -1,0 +1,13 @@
+body {
+font-family: 'Courier New', Courier, monospace;
+background-color: aqua;
+}
+p {
+font-size: 28px;
+}
+h1 {
+    font-size: 45px;
+}
+ul li{
+    font-size:28px;
+   }
